@@ -15,4 +15,4 @@ Hands-on Experience for mlflow with wine dataset
 - run `jupyter notebook`
 
 ## To start MLFlow Server
--'mlflow server --backend-store-uri mlruns/ --default-artifact-root mlruns/ --host localhost --port 5000'
+- 'mlflow server --backend-store-uri mlruns/ --default-artifact-root mlruns/ --host localhost --port 5000'
